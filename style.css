@@ -84,6 +84,7 @@ h2 {
 }
 
 .wrapper {
+    padding: 13px 18px;
     border-radius: 40px;
     width: 1200px;
     background: #fff;
